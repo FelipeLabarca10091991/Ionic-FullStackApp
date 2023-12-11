@@ -1,0 +1,7 @@
+{
+  "name": "fullStackApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
